@@ -66,12 +66,10 @@ use Google Distance Matrix API (https://developers.google.com/maps/documentation
 stay for the night.
 
 To enable the application to set the alarm for user to wake up, I decide to use “AlarmManager”
-class in Android API to set alarm for the user (https://developer.android.com/reference/android/
-app/AlarmManager.html).
+class in Android API to set alarm for the user (https://developer.android.com/reference/android/app/AlarmManager.html).
 
 To enable the application to vibrate when the alarm happens, I decide to use “Vibrator” class in
-Android API to vibrate the phone (https://developer.android.com/reference/android/os/
-Vibrator.html).
+Android API to vibrate the phone (https://developer.android.com/reference/android/os/Vibrator.html).
 
 To enable the application to adjust alarm’s volume, I decide to use “Audio Manager” class in
 Android API (https://developer.android.com/reference/android/media/AudioManager.html).
